@@ -1,0 +1,6 @@
+https://www.kaggle.com/kanncaa1/feature-selection-and-data-visualization/code
+https://www.kaggle.com/gargmanish/basic-machine-learning-with-cancer/code
+https://www.kaggle.com/arthurtok/decision-boundaries-visualised-via-python-plotly/code
+https://www.kaggle.com/mgabrielkerr/visualizing-knn-svm-and-xgboost-on-iris-dataset/code
+https://www.kaggle.com/rhodiumbeng/red-wine-analysis/code
+https://www.kaggle.com/rhodiumbeng/red-wine-analysis/data
